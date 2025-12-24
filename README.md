@@ -67,6 +67,7 @@ Felina brings RedBus to elders who were never able to book independently.
 ## 🌐 Contact
 
 - Prakash Sangam (CEO)
-- Anoop Menon (CTO).
+- Anoop Menon (CTO)
+- Venkatesh Iyer (VP - Product & Business)
 
 
