@@ -66,22 +66,7 @@ Felina brings RedBus to elders who were never able to book independently.
 
 ## 🌐 Contact
 
-- **General mail id** - partnerships@rapido.bike or business@rapido.bike
-
-- **Co-Founder** 
-   1. Aravind Sanka  (aravind@rapido.bike)
-   2. Rishikesh SR (rishi@rapido.bike)
-   3. Pavan Guntupalli (pavan@rapido.bike)
-
-- **Other mail id**
-   1. shoutout@rapido.bike
-
-- **Standard Email Format:** 
-    Most corporate emails at Rapido follow the firstname.lastname@rapido.bike pattern.
-
-- **Rapido Corporate Office** - 
-Mantri Commercio - Spatium Tower A,
-Devarabeesanahalli Village, Bellandur,
-Bangalore, Karnataka 560103.
+- Prakash Sangam (CEO)
+- Anoop Menon (CTO).
 
 
