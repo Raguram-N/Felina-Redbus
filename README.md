@@ -20,7 +20,7 @@ India has 140M+ elders, many of whom:
 - Rapido loses a high-frequency, low-competition user group  
 - Families shoulder unnecessary dependency burden  
 
-> Digital adoption ≠ Digital accessibility.
+> ✨ **Digital adoption ≠ Digital accessibility.**
 
 ---
 
@@ -35,7 +35,7 @@ Felina acts as a consent-first voice interface between elders and Rapido.
 4. Confirmation via voice + optional family notification  
 5. SOS escalation if required  
 
-> ✨ *Elder never touches an app. Rapido gains a new rider.*
+> ✨ **Elder never touches an app. Redbus gains a new rider.**
 
 ---
 
